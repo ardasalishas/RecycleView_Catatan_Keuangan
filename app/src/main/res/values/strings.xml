@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Catatan Keuangan</string>
+    <string name="title_txt">Title</string>
+    <string name="description_txt">Description here</string>
+
+    <string-array name="list_record">
+        <item>Income</item>
+        <item>Outcome</item>
+        <item>Outcome</item>
+        <item>Income</item>
+        <item>Income</item>
+        <item>Income</item>
+        <item>Outcome</item>
+        <item>Outcome</item>
+        <item>Income</item>
+        <item>Outcome</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+    </string-array>
+</resources>
